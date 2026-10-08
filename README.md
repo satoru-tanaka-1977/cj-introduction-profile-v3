@@ -30,7 +30,7 @@ CODEJUMPの課題を通して、HTML・CSSの基礎構造やレイアウト設�
 
 ## Demo
 
-https://satoru-tanaka-1977.github.io/cj-introduction-profile-m/
+https://satoru-tanaka-1977.github.io/cj-introduction-profile-v3/
 
 ## 制作状況
 
