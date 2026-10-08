@@ -1,6 +1,6 @@
-# Profile（プロフィール）
+# Profile（プロフィール） [3周目]
 
-CODEJUMP 入門編の「プロフィール」課題として制作しているWebサイトです。
+CODEJUMP 入門編の「プロフィール」課題として制作しているWebサイトです。（基礎固めの3周目）
 
 ## 概要
 
@@ -34,4 +34,4 @@ https://satoru-tanaka-1977.github.io/cj-introduction-profile-m/
 
 ## 制作状況
 
-制作中(2026.10.7~)
+制作中（3周目 / 2026.10.7~）
